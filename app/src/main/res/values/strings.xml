@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Delete Empty Folders</string>
+    <string name="selected">%d selected</string>
+</resources>
